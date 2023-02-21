@@ -1,0 +1,4 @@
+flask
+pipenv
+marshmallow
+pytest
